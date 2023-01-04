@@ -1,11 +1,8 @@
-import React from 'react';
-import './App.css';
+import ProjectPage from "./components/ProjectPage";
 
 function App() {
   return (
-    <blockquote>
-      Just a simple React app with TypeScript
-    </blockquote>
+    <ProjectPage />
   );
 }
 
