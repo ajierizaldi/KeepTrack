@@ -5,7 +5,7 @@ export const MOCK_PROJECTS = [
         id: 1,
         name: 'Jakarta',
         description: 'Jakarta is the capital and largest city of Indonesia, located on the northwest of the island of Java.',
-        imageUrl: '/assets/placeimg_500_300_arch4.jpg',
+        imageUrl: 'assets/placeimg_500_300_arch4.jpg',
         contractTypeId: 3,
         contractSignedOn: '2013-08-04T22:39:41.473Z',
         budget: 1000000,
